@@ -19,10 +19,6 @@ Main contributions include:
 - Discussion of generalization via implicit regularization mechanisms  
 - Interpretation of optimization trajectories in terms of curvature and low-loss paths
 
-## 📄 File
-
-- [📥 Final PDF of the thesis (in Spanish)](https://github.com/Suesta/wide-nn-optimization-theory/raw/main/TFG__Wide_Neural_Network_Optimization_Theory.pdf)
-
 
 ## 📌 Repository Status
 
