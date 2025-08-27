@@ -21,11 +21,11 @@ Main contributions include:
 
 ## 📄 File
 
-- [`TFG_Victor_Suesta_WideNN_Optimization.pdf`](TFG_Victor_Suesta_WideNN_Optimization.pdf): Final PDF of the thesis (in Spanish)
+- [📥 Final PDF of the thesis (in Spanish)](https://github.com/Suesta/wide-nn-optimization-theory/raw/main/TFG__Wide_Neural_Network_Optimization_Thesis.pdf)
 
-## 🔒 Repository Status
+## 📌 Repository Status
 
-This repository is currently **private** for academic integrity. For access or collaboration requests, please contact me directly.
+This repository is currently **public**. For academic or collaboration purposes, feel free to explore or contact me directly.
 
 ---
 
