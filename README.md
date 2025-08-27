@@ -21,7 +21,8 @@ Main contributions include:
 
 ## 📄 File
 
-- [📥 Final PDF of the thesis (in Spanish)](https://github.com/Suesta/wide-nn-optimization-theory/raw/main/TFG__Wide_Neural_Network_Optimization_Thesis.pdf)
+- [📥 Final PDF of the thesis (in Spanish)](https://github.com/Suesta/wide-nn-optimization-theory/raw/main/TFG__Wide_Neural_Network_Optimization_Theory.pdf)
+
 
 ## 📌 Repository Status
 
