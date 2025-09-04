@@ -25,5 +25,6 @@ Main contributions include:
 This repository is currently **public**. For academic or collaboration purposes, feel free to explore or contact me directly.
 
 ---
-
-© Víctor Suesta — 2025
+## 🔗 Author
+Víctor Suesta  
+[LinkedIn](https://www.linkedin.com/in/víctor-suesta-arribas-7b1250322/)
